@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="USP7L4HFHWZ1" name="org.devOps.Dev.SampleDev" tests="1" failures="0" timestamp="27 Dec 2016 19:52:21 GMT" time="0.05" errors="0">
+  <testcase name="test" time="0.026" classname="org.devOps.Dev.SampleDev"/>
+</testsuite>
